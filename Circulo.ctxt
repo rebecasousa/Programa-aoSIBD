@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Circulo
+comment1.params=r
+comment1.target=Circulo(double)
+comment2.params=
+comment2.target=double\ getR()
+comment3.params=
+comment3.target=double\ area()
+comment4.params=
+comment4.target=double\ perimetro()
+numComments=5

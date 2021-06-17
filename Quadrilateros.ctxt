@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Quadrilateros
+comment1.params=a\ b\ c\ d
+comment1.target=Quadrilateros(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getA()
+comment3.params=
+comment3.target=double\ getB()
+comment4.params=
+comment4.target=double\ getC()
+comment5.params=
+comment5.target=double\ getD()
+comment6.params=value
+comment6.target=double\ validate(double)
+numComments=7

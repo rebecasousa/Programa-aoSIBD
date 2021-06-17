@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Quadrado
+comment1.params=a
+comment1.target=Quadrado(double)
+comment2.params=
+comment2.target=double\ getA()
+comment3.params=
+comment3.target=double\ area()
+comment4.params=
+comment4.target=double\ perimetro()
+numComments=5
