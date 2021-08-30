@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CrudCliente
+comment1.params=conexao1
+comment1.target=CrudCliente(java.sql.Connection)
+comment2.params=nome\ nascimento\ cpf\ email\ fone\ endere\u00E7o
+comment2.target=boolean\ create(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=cpf
+comment3.target=boolean\ read(java.lang.String)
+comment4.params=novonome\ novonascimento\ cpf\ novoemail\ novofone\ novoendere\u00E7o
+comment4.target=boolean\ update(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=cpf
+comment5.target=boolean\ delete(java.lang.String)
+numComments=6
